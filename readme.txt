@@ -6,4 +6,4 @@ Git tracks changes of files.
 git push origin master
 
 git branch dev
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
